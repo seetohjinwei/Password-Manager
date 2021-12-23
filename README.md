@@ -1,6 +1,4 @@
 # Password Manager
-Built by See Toh Jin Wei
-
 ### **Disclaimer!!**
 **DO NOT** use for storing any important passwords/accounts/information. This is just a fun side project, **NOT** intended to be secure.
 
